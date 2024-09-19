@@ -1,0 +1,91 @@
+header{
+    background-color: maroon;
+    color: white;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    top:0px;
+}
+img{
+    width:350px;
+}
+.a{
+    position: absolute;
+    z-index: -1;
+    top: 12%;
+    left: 2%;
+}
+.b{
+    position: absolute;
+    z-index: -1;
+    top: 12%;
+    right: 2%;
+}
+.c{
+    position: absolute;
+    z-index: -1;
+    top: 42%;
+    left: 2%;
+}
+.d{
+    position: absolute;
+    z-index: -1;
+    top: 42%;
+    right: 2%;
+}
+.e{
+    position: absolute;
+    z-index: -1;
+    top: 72%;
+    left: 2%;
+}
+.f{
+    position: absolute;
+    z-index: -1;
+    top: 72%;
+    right: 2%;
+}
+.g{
+    position: absolute;
+    z-index: -1;
+    top: 103%;
+    left: 2%;
+}
+.h{
+    position: absolute;
+    z-index: -1;
+    top: 103%;
+    right: 2%;
+}
+.i{
+    position: absolute;
+    z-index: -1;
+    top: 133%;
+    left: 2%;
+}
+.j{
+    position: absolute;
+    z-index: -1;
+    top: 133%;
+    right: 2%;
+}
+.k{
+    position: absolute;
+    z-index: -1;
+    top: 163%;
+    left: 2%;
+}
+.l{
+    position: absolute;
+    z-index: -1;
+    top: 163%;
+    right: 2%;
+}
+.m img{
+    width: 500px;
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 31.5%;
+    border-radius: 20px;
+}
